@@ -1,0 +1,3 @@
+[submodule "tic-tac-toe"]
+	path = tic-tac-toe
+	url = https://git.generalassemb.ly/rmedrano28/tic-tac-toe.git
